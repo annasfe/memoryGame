@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .card { @apply w-24 h-24 bg-slate-300 border-2 border-cyan-700}
+  .flipped {@apply text-7xl bg-white text-center pointer-events-none}
+}
+
+/* Board style */
+
+/* Pseudo elements */
+
+/* Tile style */
+
+/* Game over window */
